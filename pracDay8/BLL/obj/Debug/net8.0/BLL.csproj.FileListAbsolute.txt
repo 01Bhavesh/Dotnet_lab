@@ -1,0 +1,17 @@
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\BLL.dll
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\BLL.pdb
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\BOL.dll
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\DAL.dll
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\BOL.pdb
+D:\dotnet\pracDay8\BLL\bin\Debug\net8.0\DAL.pdb
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.dll
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\BLL.pdb
+D:\dotnet\pracDay8\BLL\obj\Debug\net8.0\ref\BLL.dll

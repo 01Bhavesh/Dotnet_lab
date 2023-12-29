@@ -1,0 +1,11 @@
+D:\dotnet\GDILib\bin\Debug\net8.0\GDILib.deps.json
+D:\dotnet\GDILib\bin\Debug\net8.0\GDILib.dll
+D:\dotnet\GDILib\bin\Debug\net8.0\GDILib.pdb
+D:\dotnet\GDILib\obj\Debug\net8.0\GDILib.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfoInputs.cache
+D:\dotnet\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfo.cs
+D:\dotnet\GDILib\obj\Debug\net8.0\GDILib.csproj.CoreCompileInputs.cache
+D:\dotnet\GDILib\obj\Debug\net8.0\GDILib.dll
+D:\dotnet\GDILib\obj\Debug\net8.0\refint\GDILib.dll
+D:\dotnet\GDILib\obj\Debug\net8.0\GDILib.pdb
+D:\dotnet\GDILib\obj\Debug\net8.0\ref\GDILib.dll

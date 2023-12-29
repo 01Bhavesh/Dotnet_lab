@@ -1,0 +1,15 @@
+D:\dotnet\pracDay8\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\dotnet\pracDay8\DAL\bin\Debug\net8.0\DAL.dll
+D:\dotnet\pracDay8\DAL\bin\Debug\net8.0\DAL.pdb
+D:\dotnet\pracDay8\DAL\bin\Debug\net8.0\BOL.dll
+D:\dotnet\pracDay8\DAL\bin\Debug\net8.0\BOL.pdb
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.dll
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\DAL.pdb
+D:\dotnet\pracDay8\DAL\obj\Debug\net8.0\ref\DAL.dll

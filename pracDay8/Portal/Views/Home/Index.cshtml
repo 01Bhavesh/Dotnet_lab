@@ -1,0 +1,15 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <h1>Welcome</h1>
+    @{
+        List<Food> lst = (List<Food>)ViewData["food"];
+            foreach(Food f in lst)
+            {
+                <li>@f.id  @f.name  @f.unit  @f.cid</li>
+            }
+
+    }
+    </div>
