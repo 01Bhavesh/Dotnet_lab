@@ -1,0 +1,21 @@
+@using BAL;
+@{
+    ViewData["title"] = "show data";
+}
+
+
+@{List<Food> lst = ViewData["data"] as List<Food>;
+<table border="1px">
+    @* <tr><th>ID</th><th>name</th><th>unit</th><th>campanyid</th></tr> *@
+    @foreach(var food in lst){
+    <tr><td >@food.id</td>
+    <td> @food.name </td>
+     <td>@food.unit </td>
+     <td> @food.cid</td>
+     <td style="background-color: aqua ;"><a href="/Food/Update/@food.id">Update Data</a></td>
+     <td style="background-color: burlywood;"><a href="/Food/DeleteById/@food.id">Delete Data</a></td></tr>}
+
+</table>
+<br><br>
+    
+}

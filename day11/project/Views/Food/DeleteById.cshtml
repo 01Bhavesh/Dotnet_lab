@@ -1,0 +1,8 @@
+@{
+    ViewData["Title"] = "Delete Data";
+}
+<form method = "post">
+    Delete Data: <input type = "number" value=@Model.id name="id" />
+    Name: <input type="text" value=@Model.name name = "name" /><br><br>
+    <button>Delete</button>
+    </form>

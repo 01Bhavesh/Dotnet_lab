@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Update Data";
+}
+
+
+<h1>Update here</h1>
+<form method = "post">
+    Id: <input type ="number" value=@Model.id  name = "id" /><br><br>
+    Name: <input type="text" value=@Model.name name = "name" /><br><br>
+    unit: <input type="text" value=@Model.unit name = "unit" /><br><br>
+    company id: <input type="number" value=@Model.cid name = "cid" /><br><hr>
+    <button>update</button>
+</form>
