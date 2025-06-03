@@ -34,12 +34,9 @@ public partial class _Default : System.Web.UI.Page
         }
 
         return list;
-    }
-}
 
 
-
-<select id="myDropdown">
+        <select id="myDropdown">
   <option value="">-- Select --</option>
 </select>
 
@@ -72,6 +69,12 @@ public partial class _Default : System.Web.UI.Page
     });
   });
 </script>
+    }
+}
+
+
+
+
 
        
 
