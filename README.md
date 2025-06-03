@@ -37,6 +37,10 @@ public partial class _Default : System.Web.UI.Page
 
 
         <select id="myDropdown">
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<select id="myDropdown">
   <option value="">-- Select --</option>
 </select>
 
