@@ -34,18 +34,19 @@ public partial class _Default : System.Web.UI.Page
         }
 
         return list;
-
+   }
+}
 
         <select id="myDropdown">
+              <option value="">-- Select --</option>
+        </select>
 
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-<select id="myDropdown">
-  <option value="">-- Select --</option>
-</select>
+        <select id="myDropdown">
 
-<script>
-  $(document).ready(function () {
+        <script>
+      $(document).ready(function () {
     $.ajax({
       type: "POST",
       url: "Default.aspx/GetMessage",
@@ -71,10 +72,9 @@ public partial class _Default : System.Web.UI.Page
         }
       }
     });
-  });
-</script>
-    }
-}
+      });
+    </script>
+ 
 
 
 
